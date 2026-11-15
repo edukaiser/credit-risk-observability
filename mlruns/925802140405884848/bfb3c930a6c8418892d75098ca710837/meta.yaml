@@ -1,0 +1,14 @@
+artifact_uri: file:C:\dev\Hands-ON - Projetos - TechChallenge\TechChallenge\Fase 4\credit-risk-observability\mlruns/925802140405884848/bfb3c930a6c8418892d75098ca710837/artifacts
+end_time: 1794762912988
+entry_point_name: ''
+experiment_id: '925802140405884848'
+lifecycle_stage: active
+run_id: bfb3c930a6c8418892d75098ca710837
+run_name: drift-monitoring-pipeline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794762912854
+status: 3
+tags: []
+user_id: eduar

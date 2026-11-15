@@ -1,0 +1,10 @@
+artifact_location: file:C:\dev\Hands-ON - Projetos - TechChallenge\TechChallenge\Fase
+  4\credit-risk-observability\mlruns/925802140405884848
+creation_time: 1794761610311
+effective_trace_archival_retention: null
+experiment_id: '925802140405884848'
+last_update_time: 1794761610311
+lifecycle_stage: active
+name: fiap-fase4-credit-observability
+trace_location: null
+workspace: default
