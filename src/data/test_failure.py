@@ -1,8 +1,10 @@
 """Script de teste para demonstrar a falha e o bloqueio do contrato Pandera."""
 
 from pathlib import Path
+
 import pandas as pd
 import pandera.errors
+
 from src.data.validate_data import validate_dataset
 
 
