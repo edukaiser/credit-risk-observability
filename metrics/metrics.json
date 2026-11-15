@@ -1,0 +1,6 @@
+{
+    "timestamp": "2026-11-15T10:33:36.532077",
+    "model_name": "LogisticRegression",
+    "roc_auc": 0.9915897435897436,
+    "accuracy": 0.9642857142857143
+}
