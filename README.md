@@ -5,7 +5,7 @@ Projeto de Machine Learning Ops para monitoramento, observabilidade e governanç
 
 ---
 
-Resumo rápido (Vídeo Explicativo): [Vídeo S.T.A.R do Projeto](https://seu-link-do-drive-aqui.com)
+Resumo rápido (Vídeo Explicativo): [Vídeo S.T.A.R do Projeto](https://drive.google.com/drive/folders/1cWgEUMoyKyzTco5uz-naKmyB_K1aVYcX)
 
 ---
 
